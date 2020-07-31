@@ -25,7 +25,9 @@ function CadastroCategoria() {
   }
 
   useEffect(()=>{
-     const URL = 'http://localhost:8080/categorias';
+     const URL = window.location.hostname.includes('localhost')
+     ? 'http://localhost:8080/categorias'
+     : 'https://gameflixx.herokuapp.com/categorias';
      fetch(URL)
      .then(async (serverResponse)=> {
        const response = await serverResponse.json();
