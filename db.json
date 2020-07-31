@@ -1,0 +1,11 @@
+{
+    "categorias": 
+    [
+        {
+        "id": 1,
+        "nome": "PC",
+        "descricao": "PC master race",
+        "cor":"#cbd1ff"
+        }
+    ]
+}

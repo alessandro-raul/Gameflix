@@ -1,0 +1,220 @@
+{
+  "categorias": [
+    {
+      "titulo": "Novidades",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#228B22",
+      "link_extra": {
+        "text": "Confira os últimos anúncios",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "PS5 vai ter GRÁFICOS PIORES que o XBOX SERIES X?",
+          "url": "https://www.youtube.com/watch?v=mqvTQZvz4Mk"
+        },
+        {
+          "titulo": "Horizon Forbidden West - Announcement Trailer | PS5",
+          "url": "https://www.youtube.com/watch?v=Lq594XmpPBg"
+        },
+        {
+          "titulo": "Halo Infinite | Campaign Gameplay Premiere – 8 Minute Demo",
+          "url": "https://www.youtube.com/watch?v=HZtc5-syeAk&t=311s"
+        },
+        {
+          "titulo": "Paper Mario: The Origami King - Announcement Trailer - Nintendo Switch",
+          "url": "https://www.youtube.com/watch?v=FX6DTLcWUdY"
+        },
+        {
+          "titulo": "The Last of Us Part II - Por dentro do mundo | PS4",
+          "url": "https://www.youtube.com/watch?v=N9enC9Jr0g8&list=PLr9qWytEXDu1SQ_ELCy4gSkrimkbPIOTF&index=5"
+        },
+        {
+          "titulo": "Ary and the Secret of Season - Features Trailer",
+          "url": "https://www.youtube.com/watch?v=zRdpKgnPo7s"
+        },
+        {
+          "titulo": "Rogue Company - Launch Trailer - Nintendo Switch",
+          "url": "https://www.youtube.com/watch?v=7mzf6leFsKY"
+        }  
+      ]
+    },
+
+    {
+      "titulo": "Playstation",
+      "cor": "#00008B",
+      "link_extra": {
+        "text": "Seleção Playstation",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "THE LAST OF US 1: RESUMO DA HISTÓRIA | A história de TLoU e Left Behind",
+          "url": "https://www.youtube.com/watch?v=lclNH-FMYRA"
+        },
+        {
+          "titulo": "O Preço ABSURDO do GTA 5 no Playstation 5",
+          "url": "https://www.youtube.com/watch?v=9OI154kSa8M"
+        },
+        {
+          "titulo": "Os melhores exclusivos do PlayStation da última década - Voxel",
+          "url": "https://www.youtube.com/watch?v=VPVGfMqh1bs"
+        }, 
+        {
+          "titulo": "PLAYSTATION 5: O QUE ESPERAR DOS PRIMEIROS JOGOS",
+          "url": "https://www.youtube.com/watch?v=zeuUChtxUVM&t=2s"
+        },
+        {
+          "titulo": "O Problema Gráfico SÉRIO do PS5 (Análise Profunda Comparando)",
+          "url": "https://www.youtube.com/watch?v=q31qzt9x9Iw"
+        }
+      ]
+    },
+    {
+      "titulo": "Xbox",
+      "cor": "#32cd32",
+      "link_extra": {
+        "text": "Seleção Caixista",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+        },
+        {
+          "titulo": "XBOX GAMES SHOWCASE - LIVE VOXEL - Português PT-BR",
+          "url": "https://www.youtube.com/watch?v=UuAOc19_mj0"
+        },
+        {
+          "titulo": "FABLE, FORZA E OS NOVOS JOGOS DO XBOX SERIES X",
+          "url": "https://www.youtube.com/watch?v=ckI4NUAg9cc"
+        },
+        {
+          "titulo": "MANDANDO A REAL SOBRE O XBOX SERIES X",
+          "url": "https://www.youtube.com/watch?v=4AmIWqmH19E"
+        }, 
+        {
+          "titulo": "ESTE PODE SER O XBOX SERIES S - LOCKHART! ESPECIFICAÇÕES E DETALHES!",
+          "url": "https://www.youtube.com/watch?v=mf2MUMxGZXk"
+        }
+      ]
+    },
+    {
+      "titulo": "Nintendo",
+      "cor": "#fe0016",
+      "link_extra": {
+        "text": "Seleção Nintendista",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        },
+        {
+          "titulo": "Por que o Nintendo Switch está tão caro e quando o preço vai cair",
+          "url": "https://www.youtube.com/watch?v=7lfymoCzpn4"
+        },
+        {
+          "titulo": "Brie Larson como SAMUS | Luigi em MARIO 64 é REAL | Balan Wonderworld versão SWITCH",
+          "url": "https://www.youtube.com/watch?v=ve69KN9VLG8"
+        },
+        {
+          "titulo": "NINTENDO SWITCH: O PARAÍSO DOS PORTS?",
+          "url": "https://www.youtube.com/watch?v=pPi7zMz_muU"
+        },
+        {
+          "titulo": "NINTENDO E A NOVA GERAÇÃO DOS GAMES",
+          "url": "https://www.youtube.com/watch?v=zsHuY2B7IhU"
+        }
+      ]
+    },
+    {
+      "titulo": "Reviews",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "THE LAST OF US 2 : VALE OU NAO A PENA JOGAR!?",
+          "url": "https://www.youtube.com/watch?v=wctBnn5KqL0"
+        },
+        {
+          "titulo": "JÁ JOGUEI DEATH STRANDING! O JOGO É BOM OU RUIM?",
+          "url": "https://www.youtube.com/watch?v=Kfr9Wiif5SI"
+        },
+        {
+          "titulo": "Ghost of Tsushima - Review/Análise - VOXEL",
+          "url": "https://www.youtube.com/watch?v=JxuUuYezf2Y"
+        },
+        {
+          "titulo": "Paper Mario: The Origami King - Análise / Review - VOXEL",
+          "url": "https://www.youtube.com/watch?v=nnho-OtUUzc"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
